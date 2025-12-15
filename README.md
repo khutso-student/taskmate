@@ -40,8 +40,6 @@ TaskMate is built as part of a learning and practical project to strengthen skil
 * **React Hooks** (useState, useEffect)
 * **Styled Components / Native Styling**
 
-## ⚙️ Installation & Setup
-
 ### Prerequisites
 
 * Node.js installed
